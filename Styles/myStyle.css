@@ -1,0 +1,21 @@
+﻿body {
+   
+}
+#container{
+     width:100%;
+
+}
+.card,.logo{
+    margin: auto;
+}
+.logo{
+    width:50%;
+}
+.row{
+    margin-top:50px;
+
+}
+.card{
+    margin-top:10px;
+
+}
